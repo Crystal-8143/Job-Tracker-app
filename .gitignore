@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build folders
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Coverage
+coverage/
+
+# Vite files
+vite.config.timestamp*
+
+# Temporary files
+.tmp/
+temp/
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Local SQL
+*.sqlite
+*.db
